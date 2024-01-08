@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi I'm Alex 👋
+### Welcome to my profile
 
-<!--
-**AlexSteeves/AlexSteeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,cpp,ts)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexsteeves&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsteeves&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
