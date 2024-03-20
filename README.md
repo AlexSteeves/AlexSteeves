@@ -6,7 +6,12 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a new grad computer engineer and passionate developer.I am currently living on Ottawa,ON Canada and am looking for employment. I enjoy reading articles, working out and aRPGs.</p>
+    <div align="center">
+    <h2>🚀 About Me</h2>
+    <p>Hello! I'm a recent Computer Engineering graduate from the University of Ottawa with a passion for Software Development. Based in Ontario, I am on the lookout for exciting employment opportunities.</p>
+    <p>My interests include programming and learning new technology, working out and playing Action RPGs.</p>
+    <p>To learn more about my projects and work experience, I invite you to visit my <a style="color:green; text-decoration:none;" href="https://www.alexsteeves.com/">PORTFOLIO</a>
+</p>
 </div>
 
 <div align="center">
