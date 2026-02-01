@@ -1,16 +1,14 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=334155&center=true&vCenter=true&width=435&lines=Hey+I'm+Alex;This+is+my;Github+Profile;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=2000&color=334155&center=true&vCenter=true&width=435&lines=Hey+I'm+Alex;This+is+my;Github+Profile;" alt="Typing SVG"/>
     </h1>
 </div>
 
-<div align="center">
-    <h2>🚀 About Me</h2>
-    <p>Hello! I'm a recent Computer Engineering graduate from the University of Ottawa with a passion for Software Development. Based in Ontario, I am on the lookout for exciting employment opportunities. </p>
-    <p>My interests include programming and learning new technology, working out and playing Action RPGs. </p>
-    <p>To learn more about my projects and work experience, I invite you to visit my <a href="https://www.alexsteeves.com/">PORTFOLIO</a> </p>
+<div align="center"> 
+    <h2>🚀 About Me</h2> 
+    <p>Hello! I'm a Computer Engineering graduate with a passion for Software Development. Currently, I am a Full Stack Developer at Autocase in Toronto, Ontario, where I focus on Front-End (70%) and Back-End (30%) development.</p> <p>My interests include programming and learning new technology, working out, and playing Action RPGs.</p> <p>To learn more about my projects and work experience, I invite you to visit my <a href="https://www.alexsteeves.com/">PORTFOLIO</a> 
+    </p> 
 </div>
-
 
 
 <div align="center">
