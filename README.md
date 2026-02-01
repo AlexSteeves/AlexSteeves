@@ -6,7 +6,7 @@
 
 <div align="center"> 
     <h2>🚀 About Me</h2> 
-    <p>Hello! I'm a Computer Engineering graduate with a passion for Software Development. Currently, I am a Full Stack Developer at Autocase in Toronto, Ontario, where I focus on Front-End (70%) and Back-End (30%) development.</p> <p>My interests include programming and learning new technology, working out, and playing Action RPGs.</p> <p>To learn more about my projects and work experience, I invite you to visit my <a href="https://www.alexsteeves.com/">PORTFOLIO</a> 
+    <p>Hello! I'm a Computer Engineering graduate with a passion for Software Development. Currently, I am a Full Stack Developer at Autocase in Toronto, Ontario, where I focus on Front-End (70%) and Back-End (30%).</p> <p>My interests include programming and learning new technology, working out, and playing Action RPGs.</p> <p>To learn more about my projects and work experience, I invite you to visit my <a href="https://www.alexsteeves.com/">PORTFOLIO</a> 
     </p> 
 </div>
 
@@ -19,18 +19,9 @@
 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,cpp,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python)](https://skillicons.dev)
 
 
-  
-<div align="center">
-    <h2>
-        🏆 My Stats:
-    </h2>
-</div> 
 
-<p>
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsteeves&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
 
 
