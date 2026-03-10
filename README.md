@@ -6,7 +6,7 @@
 
 <div align="center"> 
     <h2>🚀 About Me</h2> 
-    <p>Hello! I'm a Computer Engineering graduate with a passion for Software Development. Currently, I am a Full Stack Developer at Autocase in Toronto, Ontario, where I focus on Front-End (70%) and Back-End (30%).</p> <p>My interests include programming and learning new technology, working out, and playing Action RPGs.</p> <p>To learn more about my projects and work experience, I invite you to visit my <a href="https://www.alexsteeves.com/">PORTFOLIO</a> 
+    <p>Hello! I'm a Computer Engineering graduate with a passion for Software Development. Currently, I am a Full Stack Developer at Autocase in Toronto, Ontario, where I focus on Front-End (70%) and Back-End (30%).</p> <p>My interests include programming and learning new technology, working out, and playing Action RPGs.</p> <p>To learn more about my projects and work experience, I invite you to visit my <a href="https://www.alexsteeves.dev/">PORTFOLIO</a> 
     </p> 
 </div>
 
