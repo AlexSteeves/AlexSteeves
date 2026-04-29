@@ -1,27 +1,33 @@
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=2000&color=334155&center=true&vCenter=true&width=435&lines=Hey+I'm+Alex;This+is+my;Github+Profile;" alt="Typing SVG"/>
-    </h1>
-</div>
 
-<div align="center"> 
-    <h2>🚀 About Me</h2> 
-    <p>Hello! I'm a Computer Engineering graduate with a passion for Software Development. Currently, I am a Full Stack Developer at Autocase in Toronto, Ontario, where I focus on Front-End (70%) and Back-End (30%).</p> <p>My interests include programming and learning new technology, working out, and playing Action RPGs.</p> <p>To learn more about my projects and work experience, I invite you to visit my <a href="https://www.alexsteeves.dev/">PORTFOLIO</a> 
-    </p> 
-</div>
+# Alex Steeves
+**Full Stack Developer · Toronto, ON**
 
-
-<div align="center">
-    <h2>
-        Languages
-    </h2>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexsteeves.dev-black?style=flat-square)](https://alexsteeves.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexander--steeves-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/alexander-steeves)
 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python)](https://skillicons.dev)
+---
 
+### About
 
+Computer Engineering grad. Full Stack Developer at **Autocase** in Toronto — 70% frontend, 30% backend. Building things with React, TypeScript, and Python. Currently exploring LLM integrations and working toward AWS Developer Associate.
 
+---
 
+### Stack
 
+| Frontend | Backend | Cloud |
+|----------|---------|-------|
+| React · TypeScript · Next.js | Python · Falcon | AWS · Docker |
+
+---
+
+### Currently
+
+- 🟢 Building a RAG document assistant (FastAPI + React + OpenAI)
+- 🟡 AWS Cloud Practitioner → Developer Associate
+- 🔵 Open to full-stack and AI-adjacent roles in Toronto
+
+---
