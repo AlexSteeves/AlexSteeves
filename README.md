@@ -12,7 +12,7 @@
 
 ### About
 
-Computer Engineering grad. Full Stack Developer at **Autocase** in Toronto — 70% frontend, 30% backend. Building things with React, TypeScript, and Python. Currently exploring LLM integrations and working toward AWS Developer Associate.
+Computer Engineering grad. Full Stack Developer previously at **Autocase** in Toronto — 70% frontend, 30% backend. Building things with React, TypeScript, and Python. Currently exploring LLM integrations and working toward AWS Developer Associate.
 
 ---
 
