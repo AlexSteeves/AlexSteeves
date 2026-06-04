@@ -12,7 +12,10 @@
 
 ### About
 
-Computer Engineering grad. Full Stack Developer previously at **Autocase** in Toronto — 70% frontend, 30% backend. Building things with React, TypeScript, and Python. Currently exploring LLM integrations and working toward AWS Developer Associate.
+Computer Engineering grad | Full Stack Developer (Toronto) | Building InsureAI with Python, Next.JS, Claude, FastAPI. Pursuing AWS Solutions Architect Associate. 
+
+Portfolio: alexsteeves.dev
+InsureAI Demo: alexsteeves.com
 
 ---
 
