@@ -28,8 +28,8 @@ Computer Engineering grad | Full Stack Developer (Toronto) | Building InsureAI w
 
 ### Currently
 
-- 🟢 Building a RAG document assistant (FastAPI + React + OpenAI)
+- 🟢 Building a RAG document assistant (FastAPI + Python + Typescript)
 - 🟡 AWS Solutions Architect Associate → Developer Associate
-- 🔵 Open to full-stack and AI-adjacent roles in Toronto
+- 🔵 Open to full-stack, backend AI-adjacent roles in Toronto
 
 ---
